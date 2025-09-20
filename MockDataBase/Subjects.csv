@@ -1,0 +1,11 @@
+subjectId,subjectName,credits,teacherName,prerequisiteId,maxStudents,currentStudents
+05500001,Intro to Programming,3,Dr.Good,,-1,0
+05500002,Data Structures,3,Dr.Best,05500001,-1,0
+05500003,Computer Architecture,3,Dr.Cat,,-1,0
+05500004,Algorithms,3,Dr.Dog,05500002,-1,0
+05500005,Database Systems,3,Dr.Epic,05500002,-1,0
+05500006,Operating Systems,3,Dr.Feddy,05500003,-1,0
+90690001,English I,3,Mr.Grump,,40,0
+90690002,English II,3,Mr.Grump,90690001,40,0
+90690003,FunWithMath I,3,Dr.Hat,,35,0
+90690006,FoodForLife,3,Dr.Chef,90690003,35,0

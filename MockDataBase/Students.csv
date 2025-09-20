@@ -1,0 +1,11 @@
+studentId,prefix,firstName,lastName,birthDate,school,email
+69000001,Mr,Somchai,Jaidee,2005-03-15,ABC School,somchai@email.com
+69000002,Ms,Suda,Meesuk,2006-07-20,XYZ School,suda@email.com
+69000003,Mr,Anan,Srisuk,2005-12-05,ABC School,anan@email.com
+69000004,Ms,Nattaya,Kamsai,2006-05-30,XYZ School,nattaya@email.com
+69000005,Mr,Chaiwat,Thamsuk,2005-11-11,ABC School,chaiwat@email.com
+69000006,Ms,Saranya,Lert,2006-02-17,XYZ School,saranya@email.com
+69000007,Mr,Pongthep,Suay,2005-09-25,ABC School,pongthep@email.com
+69000008,Ms,Kwanjai,Phasuk,2006-04-12,XYZ School,kwanjai@email.com
+69000009,Mr,Narong,Chaisri,2005-08-01,ABC School,narong@email.com
+69000010,Ms,Mayuree,Chaiya,2006-10-20,XYZ School,mayuree@email.com
